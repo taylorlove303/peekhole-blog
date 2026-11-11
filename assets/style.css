@@ -1,0 +1,339 @@
+/* Peekhole blog section — neon Vice City / Miami Vice cards
+   Reusable styles for the bottom blog strip on peekhole.com
+   Prefix: .ph-blog / .ph-card  (scoped so the rest of the page is left alone)
+*/
+
+.ph-blog {
+  --ph-bg: #080414;
+  --ph-card: #14081f;
+  --ph-pink: #ff3cac;
+  --ph-cyan: #00e8ff;
+  --ph-text: #f6eef9;
+  --ph-muted: #b9a8c8;
+  --ph-line: rgba(255, 60, 172, 0.38);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background:
+    radial-gradient(1200px 400px at 10% -10%, rgba(255, 60, 172, 0.16), transparent 55%),
+    radial-gradient(900px 360px at 110% 0%, rgba(0, 232, 255, 0.12), transparent 50%),
+    var(--ph-bg);
+  color: var(--ph-text);
+  padding: 1.35rem 1rem 1.75rem;
+  max-width: 760px;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+}
+
+.ph-blog *,
+.ph-blog *::before,
+.ph-blog *::after {
+  box-sizing: border-box;
+}
+
+.ph-blog-header {
+  margin: 0 0 1.15rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(0, 232, 255, 0.25);
+}
+
+.ph-blog-header h2,
+.ph-section-title {
+  margin: 0;
+  font-size: 1.15rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow:
+    0 0 8px rgba(255, 60, 172, 0.9),
+    0 0 18px rgba(0, 232, 255, 0.35);
+}
+
+.ph-blog-header p {
+  margin: 0.4rem 0 0;
+  color: var(--ph-muted);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.ph-card {
+  background:
+    linear-gradient(180deg, rgba(255, 60, 172, 0.1), transparent 32%),
+    linear-gradient(135deg, rgba(0, 232, 255, 0.05), transparent 40%),
+    var(--ph-card);
+  border: 1px solid var(--ph-line);
+  border-radius: 16px;
+  padding: 1.35rem 1.2rem 1.35rem;
+  margin: 0 0 1.35rem;
+  box-shadow:
+    0 0 0 1px rgba(0, 232, 255, 0.07),
+    0 0 28px rgba(255, 60, 172, 0.14);
+}
+
+.ph-kicker {
+  color: var(--ph-cyan);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  font-weight: 700;
+  margin: 0 0 0.45rem;
+  text-shadow: 0 0 8px rgba(0, 232, 255, 0.55);
+}
+
+.ph-card h2 {
+  font-size: clamp(1.15rem, 4.4vw, 1.45rem);
+  line-height: 1.25;
+  margin: 0 0 0.35rem;
+  color: #fff;
+  text-shadow:
+    0 0 8px rgba(255, 60, 172, 0.85),
+    0 0 20px rgba(255, 60, 172, 0.4);
+}
+
+.ph-date {
+  color: var(--ph-muted);
+  font-size: 0.85rem;
+  margin: 0 0 0.9rem;
+}
+
+.ph-card h3 {
+  font-size: 1.02rem;
+  margin: 1.05rem 0 0.4rem;
+  color: var(--ph-cyan);
+  text-shadow: 0 0 10px rgba(0, 232, 255, 0.45);
+}
+
+.ph-card p {
+  font-size: 1rem;
+  line-height: 1.65;
+  margin: 0 0 0.85rem;
+  color: var(--ph-text);
+}
+
+.ph-card a {
+  color: var(--ph-cyan);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  word-break: break-word;
+}
+
+.ph-card a:hover,
+.ph-card a:focus {
+  color: var(--ph-pink);
+}
+
+.ph-card a:focus-visible {
+  outline: 2px solid var(--ph-cyan);
+  outline-offset: 2px;
+}
+
+.ph-sources {
+  margin: 0.25rem 0 0.85rem;
+  padding-left: 1.2rem;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.ph-sources li {
+  margin: 0 0 0.3rem;
+}
+
+.ph-tags {
+  margin: 0 0 0.35rem;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.ph-tags li {
+  margin: 0;
+  padding: 0.15rem 0.55rem;
+  border: 1px solid rgba(0, 232, 255, 0.35);
+  border-radius: 999px;
+  color: var(--ph-cyan);
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+}
+
+.ph-take {
+  border-top: 1px solid rgba(0, 232, 255, 0.28);
+  margin: 0.7rem 0 0;
+  padding-top: 0.85rem;
+  font-style: italic;
+  color: #ffe3f4;
+}
+
+.ph-take strong {
+  font-style: normal;
+  color: var(--ph-pink);
+  text-shadow: 0 0 8px rgba(255, 60, 172, 0.55);
+}
+
+@media (max-width: 480px) {
+  .ph-blog {
+    padding: 1rem 0.75rem 1.35rem;
+  }
+
+  .ph-card {
+    padding: 1.1rem 0.95rem 1.15rem;
+    border-radius: 14px;
+    margin-bottom: 1.1rem;
+  }
+
+  .ph-card p {
+    font-size: 0.98rem;
+  }
+}
+
+
+/* Full-page blog chrome (home + individual posts) */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #080414;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #f6eef9;
+  -webkit-text-size-adjust: 100%;
+}
+
+.ph-page {
+  min-height: 100vh;
+  background:
+    radial-gradient(1200px 400px at 10% -10%, rgba(255, 60, 172, 0.16), transparent 55%),
+    radial-gradient(900px 360px at 110% 0%, rgba(0, 232, 255, 0.12), transparent 50%),
+    #080414;
+}
+
+.ph-site-header,
+.ph-site-footer {
+  max-width: 760px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1.1rem 1rem;
+  box-sizing: border-box;
+}
+
+.ph-site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.6rem 1.2rem;
+  border-bottom: 1px solid rgba(0, 232, 255, 0.25);
+}
+
+.ph-brand {
+  margin: 0;
+  font-size: 1.35rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+  text-shadow:
+    0 0 8px rgba(255, 60, 172, 0.9),
+    0 0 18px rgba(0, 232, 255, 0.35);
+}
+
+.ph-brand:hover,
+.ph-brand:focus {
+  color: #00e8ff;
+}
+
+.ph-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem 1.1rem;
+}
+
+.ph-nav a,
+.ph-site-footer a {
+  color: #00e8ff;
+  text-decoration: none;
+  font-size: 0.92rem;
+  text-underline-offset: 2px;
+}
+
+.ph-nav a:hover,
+.ph-nav a:focus,
+.ph-site-footer a:hover,
+.ph-site-footer a:focus {
+  color: #ff3cac;
+  text-decoration: underline;
+}
+
+.ph-nav a:focus-visible,
+.ph-brand:focus-visible,
+.ph-site-footer a:focus-visible {
+  outline: 2px solid #00e8ff;
+  outline-offset: 2px;
+}
+
+.ph-site-footer {
+  border-top: 1px solid rgba(0, 232, 255, 0.25);
+  color: #b9a8c8;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  padding-bottom: 2rem;
+}
+
+.ph-card h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.ph-card h2 a:hover,
+.ph-card h2 a:focus {
+  color: #00e8ff;
+}
+
+.ph-readmore {
+  display: inline-block;
+  margin: 0.15rem 0 0;
+  color: #00e8ff;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 0.82rem;
+}
+
+.ph-readmore:hover,
+.ph-readmore:focus {
+  color: #ff3cac;
+  text-decoration: underline;
+}
+
+.ph-back {
+  max-width: 760px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0.35rem 1rem 0;
+  box-sizing: border-box;
+  font-size: 0.9rem;
+}
+
+.ph-back a {
+  color: #00e8ff;
+  text-decoration: none;
+}
+
+.ph-back a:hover,
+.ph-back a:focus {
+  color: #ff3cac;
+  text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+  .ph-site-header,
+  .ph-site-footer,
+  .ph-back {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+}

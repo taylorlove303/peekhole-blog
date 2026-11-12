@@ -337,3 +337,32 @@ body {
     padding-right: 0.75rem;
   }
 }
+
+/* Peekhole call-to-action box: kept visually separate from editorial content */
+.ph-cta {
+  margin: 2rem 0 0.5rem;
+  padding: 1rem 1.1rem;
+  border: 1px dashed rgba(0, 232, 255, 0.55);
+  border-radius: 14px;
+  background: rgba(0, 232, 255, 0.06);
+}
+.ph-cta-label {
+  display: inline-block;
+  margin: 0 0 0.45rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #00e8ff;
+}
+.ph-cta p { margin: 0 0 0.6rem; }
+.ph-cta a.ph-cta-btn {
+  display: inline-block;
+  padding: 0.5rem 0.9rem;
+  border-radius: 999px;
+  background: #ff3cac;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+.ph-cta a.ph-cta-btn:hover, .ph-cta a.ph-cta-btn:focus { background: #00e8ff; color: #080414; }

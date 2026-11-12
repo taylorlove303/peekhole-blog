@@ -24,6 +24,20 @@ Use `./publish.sh --no-push` to commit without pushing.
 
 Rotate long-tail phrases so the same one does not appear on back-to-back days: `peekhole GTA 6 OnlyFans`, `what is peekhole in GTA 6`, `peak hole GTA 6`, `GTA 6 peekhole poster`, `GTA 6 peekhole QR code`, `peekhole Jack of Hearts`. Keep posts original. Do not claim an in-game item exists unless a source says so.
 
+## Brand call to action
+
+Relevant posts end, after the editorial text and sources, with a clearly separate box:
+
+```html
+<aside class="ph-cta" aria-label="From Peekhole">
+  <span class="ph-cta-label">From Peekhole</span>
+  <p>Enjoyed exploring the after-hours side of Vice City? Discover the exclusive world of Peekhole.</p>
+  <a class="ph-cta-btn" href="https://peekhole.com/">Visit Peekhole</a>
+</aside>
+```
+
+Vary the wording to fit the article. Keep it tasteful and non-explicit, and never mix promotion into the article body.
+
 ## Homepage snippet
 
 `homepage-snippet.html` is the one-time paste for a GoDaddy Website Builder HTML section at the bottom of peekhole.com. Wait until https://blog.peekhole.com opens in a browser, then paste the snippet and set **Forced Height** to **820** pixels. After that, daily posts appear on their own.

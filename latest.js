@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "GTA 6 Ocean Drive Clip Fools Miami | Peekhole",
+    "slug": "gta-6-ocean-drive-clip-peekhole",
+    "url": "https://blog.peekhole.com/posts/gta-6-ocean-drive-clip-peekhole.html",
+    "date": "2026-11-12",
+    "date_display": "November 12, 2026",
+    "description": "The GTA 6 Ocean Drive clip looks like real Miami phone footage. Rockstar reposted it a week before launch. Peekhole breaks it down."
+  },
+  {
+    "title": "GTA 6 Pre-Load Internet Speed: ISPs Feel It | Peekhole",
+    "slug": "gta-6-pre-load-internet-speed-peekhole",
+    "url": "https://blog.peekhole.com/posts/gta-6-pre-load-internet-speed-peekhole.html",
+    "date": "2026-11-12",
+    "date_display": "November 12, 2026",
+    "description": "GTA 6 pre-load internet speed news: the 212GB download set UK traffic records, and Spectrum offers a free gig boost through Nov 30."
+  },
+  {
+    "title": "GTA 6 Rob Nelson Interview: Miami Research | Peekhole",
+    "slug": "gta-6-rob-nelson-interview-peekhole",
+    "url": "https://blog.peekhole.com/posts/gta-6-rob-nelson-interview-peekhole.html",
+    "date": "2026-11-12",
+    "date_display": "November 12, 2026",
+    "description": "GTA 6 Rob Nelson interview highlights: Miami research trips since 2015, tiny Jason animations, and why GTA stays in America for now."
+  },
+  {
     "title": "Peak Hole GTA 6 Pre-Loads Are Live | Peekhole",
     "slug": "peekhole-gta-6-pre-loads-peak-hole",
     "url": "https://blog.peekhole.com/posts/peekhole-gta-6-pre-loads-peak-hole.html",
@@ -17,14 +41,6 @@
     "date": "2026-11-11",
     "date_display": "November 11, 2026",
     "description": "What is peekhole in GTA 6 coverage? It's Peekhole's take on the news: Rockstar targets 30fps on all consoles, with PS5 Pro upgrades."
-  },
-  {
-    "title": "Peekhole GTA 6 OnlyFans: Cloud Play for Everyone",
-    "slug": "peekhole-gta-6-cloud-gaming-peak-hole",
-    "url": "https://blog.peekhole.com/posts/peekhole-gta-6-cloud-gaming-peak-hole.html",
-    "date": "2026-11-11",
-    "date_display": "November 11, 2026",
-    "description": "Peekhole GTA 6 OnlyFans notes: Xbox One can stream GTA 6 on launch day via Cloud Gaming. Cloud playtime goes on sale today, Nov 11."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

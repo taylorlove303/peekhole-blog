@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "What Is the GTA 6 Peekhole Poster? | Peekhole",
+    "slug": "gta-6-peekhole-poster-jack-of-hearts",
+    "url": "https://blog.peekhole.com/posts/gta-6-peekhole-poster-jack-of-hearts.html",
+    "date": "2026-11-13",
+    "date_display": "November 13, 2026",
+    "description": "The GTA 6 Peekhole poster hangs outside the Jack of Hearts club in Rockstar's Extended Look. What's confirmed, what's rumor, and where the QR goes."
+  },
+  {
+    "title": "What Time Does GTA 6 Unlock? | Peekhole",
+    "slug": "what-time-does-gta-6-unlock-peekhole",
+    "url": "https://blog.peekhole.com/posts/what-time-does-gta-6-unlock-peekhole.html",
+    "date": "2026-11-13",
+    "date_display": "November 13, 2026",
+    "description": "What time does GTA 6 unlock? PS5 rolls out at midnight by country on Nov 19, starting in New Zealand. Xbox Cloud starts 1am ET. Peekhole explains."
+  },
+  {
+    "title": "Does GTA 6 Come on a Disc? No, Here's Why | Peekhole",
+    "slug": "does-gta-6-come-on-disc-peekhole",
+    "url": "https://blog.peekhole.com/posts/does-gta-6-come-on-disc-peekhole.html",
+    "date": "2026-11-13",
+    "date_display": "November 13, 2026",
+    "description": "Does GTA 6 come on a disc? No. Boxed copies hold a download code, not a disc. Take-Two's boss says discs will be like vinyl records."
+  },
+  {
     "title": "GTA 6 Ocean Drive Clip Fools Miami | Peekhole",
     "slug": "gta-6-ocean-drive-clip-peekhole",
     "url": "https://blog.peekhole.com/posts/gta-6-ocean-drive-clip-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-12",
     "date_display": "November 12, 2026",
     "description": "GTA 6 pre-load internet speed news: the 212GB download set UK traffic records, and Spectrum offers a free gig boost through Nov 30."
-  },
-  {
-    "title": "GTA 6 Rob Nelson Interview: Miami Research | Peekhole",
-    "slug": "gta-6-rob-nelson-interview-peekhole",
-    "url": "https://blog.peekhole.com/posts/gta-6-rob-nelson-interview-peekhole.html",
-    "date": "2026-11-12",
-    "date_display": "November 12, 2026",
-    "description": "GTA 6 Rob Nelson interview highlights: Miami research trips since 2015, tiny Jason animations, and why GTA stays in America for now."
-  },
-  {
-    "title": "Peak Hole GTA 6 Pre-Loads Are Live | Peekhole",
-    "slug": "peekhole-gta-6-pre-loads-peak-hole",
-    "url": "https://blog.peekhole.com/posts/peekhole-gta-6-pre-loads-peak-hole.html",
-    "date": "2026-11-11",
-    "date_display": "November 11, 2026",
-    "description": "Peak hole GTA 6 pre-loads are live on PS5 and Xbox, up to 212GB. Peekhole's briefing before the November 19 launch."
-  },
-  {
-    "title": "What Is Peekhole in GTA 6? The 30fps Tradeoff",
-    "slug": "peekhole-gta-6-30fps-peak-hole",
-    "url": "https://blog.peekhole.com/posts/peekhole-gta-6-30fps-peak-hole.html",
-    "date": "2026-11-11",
-    "date_display": "November 11, 2026",
-    "description": "What is peekhole in GTA 6 coverage? It's Peekhole's take on the news: Rockstar targets 30fps on all consoles, with PS5 Pro upgrades."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

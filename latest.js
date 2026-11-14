@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "What Is Macca & Friends in GTA 6? | Peekhole",
+    "slug": "what-is-macca-and-friends-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/what-is-macca-and-friends-gta-6-peekhole.html",
+    "date": "2026-11-14",
+    "date_display": "November 14, 2026",
+    "description": "What is Macca & Friends in GTA 6? A cartoon about a pink gator, airing on in-game WEAZEL TV from Nov 19. What's confirmed and what isn't yet."
+  },
+  {
+    "title": "What Is the GTA 6 1.002 Update? | Peekhole",
+    "slug": "gta-6-1-002-update-day-one-patch-peekhole",
+    "url": "https://blog.peekhole.com/posts/gta-6-1-002-update-day-one-patch-peekhole.html",
+    "date": "2026-11-14",
+    "date_display": "November 14, 2026",
+    "description": "What is the GTA 6 1.002 update? A roughly 1GB patch rolling out before the Nov 19 launch, likely the day-one fix. No patch notes yet. Peekhole explains."
+  },
+  {
+    "title": "Who Is Playing the GTA 6 Festival in Miami? | Peekhole",
+    "slug": "gta-6-festival-miami-lineup-peekhole",
+    "url": "https://blog.peekhole.com/posts/gta-6-festival-miami-lineup-peekhole.html",
+    "date": "2026-11-14",
+    "date_display": "November 14, 2026",
+    "description": "Who is playing the GTA 6 Festival in Miami? Travis Scott, Cardi B, Justice and more at Mana Wynwood on Nov 21. Lineup and ticket facts."
+  },
+  {
     "title": "What Is the GTA 6 Peekhole Poster? | Peekhole",
     "slug": "gta-6-peekhole-poster-jack-of-hearts",
     "url": "https://blog.peekhole.com/posts/gta-6-peekhole-poster-jack-of-hearts.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-13",
     "date_display": "November 13, 2026",
     "description": "What time does GTA 6 unlock? PS5 rolls out at midnight by country on Nov 19, starting in New Zealand. Xbox Cloud starts 1am ET. Peekhole explains."
-  },
-  {
-    "title": "Does GTA 6 Come on a Disc? No, Here's Why | Peekhole",
-    "slug": "does-gta-6-come-on-disc-peekhole",
-    "url": "https://blog.peekhole.com/posts/does-gta-6-come-on-disc-peekhole.html",
-    "date": "2026-11-13",
-    "date_display": "November 13, 2026",
-    "description": "Does GTA 6 come on a disc? No. Boxed copies hold a download code, not a disc. Take-Two's boss says discs will be like vinyl records."
-  },
-  {
-    "title": "GTA 6 Ocean Drive Clip Fools Miami | Peekhole",
-    "slug": "gta-6-ocean-drive-clip-peekhole",
-    "url": "https://blog.peekhole.com/posts/gta-6-ocean-drive-clip-peekhole.html",
-    "date": "2026-11-12",
-    "date_display": "November 12, 2026",
-    "description": "The GTA 6 Ocean Drive clip looks like real Miami phone footage. Rockstar reposted it a week before launch. Peekhole breaks it down."
-  },
-  {
-    "title": "GTA 6 Pre-Load Internet Speed: ISPs Feel It | Peekhole",
-    "slug": "gta-6-pre-load-internet-speed-peekhole",
-    "url": "https://blog.peekhole.com/posts/gta-6-pre-load-internet-speed-peekhole.html",
-    "date": "2026-11-12",
-    "date_display": "November 12, 2026",
-    "description": "GTA 6 pre-load internet speed news: the 212GB download set UK traffic records, and Spectrum offers a free gig boost through Nov 30."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

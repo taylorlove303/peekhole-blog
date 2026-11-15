@@ -366,3 +366,6 @@ body {
   text-decoration: none;
 }
 .ph-cta a.ph-cta-btn:hover, .ph-cta a.ph-cta-btn:focus { background: #00e8ff; color: #080414; }
+.ph-hero { margin: 0.8rem 0 1rem; }
+.ph-hero img { display: block; width: 100%; height: auto; border-radius: 12px; border: 1px solid rgba(0, 232, 255, 0.35); }
+.ph-hero figcaption { font-size: 0.8rem; opacity: 0.75; margin-top: 0.35rem; }

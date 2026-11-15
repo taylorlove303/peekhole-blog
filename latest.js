@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "GTA 6 Box Has No Code? What to Do | Peekhole",
+    "slug": "gta-6-box-no-code-what-to-do-peekhole",
+    "url": "https://blog.peekhole.com/posts/gta-6-box-no-code-what-to-do-peekhole.html",
+    "date": "2026-11-15",
+    "date_display": "November 15, 2026",
+    "description": "GTA 6 box has no code? Some code-in-box copies show a blank grey strip. Who to contact, what to keep, and what Rockstar's FAQ says."
+  },
+  {
+    "title": "Can You Go on Dates in GTA 6? | Peekhole",
+    "slug": "can-you-go-on-dates-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/can-you-go-on-dates-in-gta-6-peekhole.html",
+    "date": "2026-11-15",
+    "date_display": "November 15, 2026",
+    "description": "Can you go on dates in GTA 6? Yes: Jason and Lucia hit the gym, a bar, even a liquor store robbery. Here's what the Guardian preview showed."
+  },
+  {
+    "title": "Can You Be a Good Guy in GTA 6? | Peekhole",
+    "slug": "can-you-be-a-good-guy-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/can-you-be-a-good-guy-in-gta-6-peekhole.html",
+    "date": "2026-11-15",
+    "date_display": "November 15, 2026",
+    "description": "Can you be a good guy in GTA 6? Rockstar says it added ways to encourage empathy for the first time, but crime is still the core. What we know."
+  },
+  {
     "title": "What Is Macca & Friends in GTA 6? | Peekhole",
     "slug": "what-is-macca-and-friends-gta-6-peekhole",
     "url": "https://blog.peekhole.com/posts/what-is-macca-and-friends-gta-6-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-14",
     "date_display": "November 14, 2026",
     "description": "What is the GTA 6 1.002 update? A roughly 1GB patch rolling out before the Nov 19 launch, likely the day-one fix. No patch notes yet. Peekhole explains."
-  },
-  {
-    "title": "Who Is Playing the GTA 6 Festival in Miami? | Peekhole",
-    "slug": "gta-6-festival-miami-lineup-peekhole",
-    "url": "https://blog.peekhole.com/posts/gta-6-festival-miami-lineup-peekhole.html",
-    "date": "2026-11-14",
-    "date_display": "November 14, 2026",
-    "description": "Who is playing the GTA 6 Festival in Miami? Travis Scott, Cardi B, Justice and more at Mana Wynwood on Nov 21. Lineup and ticket facts."
-  },
-  {
-    "title": "What Is the GTA 6 Peekhole Poster? | Peekhole",
-    "slug": "gta-6-peekhole-poster-jack-of-hearts",
-    "url": "https://blog.peekhole.com/posts/gta-6-peekhole-poster-jack-of-hearts.html",
-    "date": "2026-11-13",
-    "date_display": "November 13, 2026",
-    "description": "The GTA 6 Peekhole poster hangs outside the Jack of Hearts club in Rockstar's Extended Look. What's confirmed, what's rumor, and where the QR goes."
-  },
-  {
-    "title": "What Time Does GTA 6 Unlock? | Peekhole",
-    "slug": "what-time-does-gta-6-unlock-peekhole",
-    "url": "https://blog.peekhole.com/posts/what-time-does-gta-6-unlock-peekhole.html",
-    "date": "2026-11-13",
-    "date_display": "November 13, 2026",
-    "description": "What time does GTA 6 unlock? PS5 rolls out at midnight by country on Nov 19, starting in New Zealand. Xbox Cloud starts 1am ET. Peekhole explains."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "Can You Get GTA 6 Free on Twitch or Kick? | Peekhole",
+    "slug": "can-you-get-gta-6-free-twitch-kick-peekhole",
+    "url": "https://blog.peekhole.com/posts/can-you-get-gta-6-free-twitch-kick-peekhole.html",
+    "date": "2026-11-16",
+    "date_display": "November 16, 2026",
+    "description": "Can you get GTA 6 free on Twitch or Kick? Yes, by luck: both are giving away Ultimate Edition codes. How each giveaway works and what is still unknown."
+  },
+  {
+    "title": "Is Burger Shot Real? GTA 6 Pop-Ups in Florida | Peekhole",
+    "slug": "is-burger-shot-real-gta-6-florida-peekhole",
+    "url": "https://blog.peekhole.com/posts/is-burger-shot-real-gta-6-florida-peekhole.html",
+    "date": "2026-11-16",
+    "date_display": "November 16, 2026",
+    "description": "Is Burger Shot real? For now, yes: Skinny Louie is running GTA 6 Burger Shot pop-ups across Florida through Dec 31. Menu, where to go, and dates."
+  },
+  {
+    "title": "What Is GTA 6 Update 01.002.001? | Peekhole",
+    "slug": "gta-6-update-01-002-001-second-patch-peekhole",
+    "url": "https://blog.peekhole.com/posts/gta-6-update-01-002-001-second-patch-peekhole.html",
+    "date": "2026-11-16",
+    "date_display": "November 16, 2026",
+    "description": "What is GTA 6 update 01.002.001? A second pre-launch patch, about 600MB on PS5 and 1.6GB on Xbox, rolling out in waves. No patch notes yet."
+  },
+  {
     "title": "GTA 6 Box Has No Code? What to Do | Peekhole",
     "slug": "gta-6-box-no-code-what-to-do-peekhole",
     "url": "https://blog.peekhole.com/posts/gta-6-box-no-code-what-to-do-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-15",
     "date_display": "November 15, 2026",
     "description": "Can you go on dates in GTA 6? Yes: Jason and Lucia hit the gym, a bar, even a liquor store robbery. Here's what the Guardian preview showed."
-  },
-  {
-    "title": "Can You Be a Good Guy in GTA 6? | Peekhole",
-    "slug": "can-you-be-a-good-guy-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/can-you-be-a-good-guy-in-gta-6-peekhole.html",
-    "date": "2026-11-15",
-    "date_display": "November 15, 2026",
-    "description": "Can you be a good guy in GTA 6? Rockstar says it added ways to encourage empathy for the first time, but crime is still the core. What we know."
-  },
-  {
-    "title": "What Is Macca & Friends in GTA 6? | Peekhole",
-    "slug": "what-is-macca-and-friends-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/what-is-macca-and-friends-gta-6-peekhole.html",
-    "date": "2026-11-14",
-    "date_display": "November 14, 2026",
-    "description": "What is Macca & Friends in GTA 6? A cartoon about a pink gator, airing on in-game WEAZEL TV from Nov 19. What's confirmed and what isn't yet."
-  },
-  {
-    "title": "What Is the GTA 6 1.002 Update? | Peekhole",
-    "slug": "gta-6-1-002-update-day-one-patch-peekhole",
-    "url": "https://blog.peekhole.com/posts/gta-6-1-002-update-day-one-patch-peekhole.html",
-    "date": "2026-11-14",
-    "date_display": "November 14, 2026",
-    "description": "What is the GTA 6 1.002 update? A roughly 1GB patch rolling out before the Nov 19 launch, likely the day-one fix. No patch notes yet. Peekhole explains."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

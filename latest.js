@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "When Do GTA 6 Reviews Come Out? | Peekhole",
+    "slug": "when-do-gta-6-reviews-come-out-peekhole",
+    "url": "https://blog.peekhole.com/posts/when-do-gta-6-reviews-come-out-peekhole.html",
+    "date": "2026-11-17",
+    "date_display": "November 17, 2026",
+    "description": "When do GTA 6 reviews come out? Reports say Wednesday, Nov 18, likely early morning US time. Rockstar has not confirmed the date or the hour."
+  },
+  {
+    "title": "Does GTA 6 Have Dynamic Weather? | Peekhole",
+    "slug": "does-gta-6-have-dynamic-weather-peekhole",
+    "url": "https://blog.peekhole.com/posts/does-gta-6-have-dynamic-weather-peekhole.html",
+    "date": "2026-11-17",
+    "date_display": "November 17, 2026",
+    "description": "Does GTA 6 have dynamic weather? Yes: Rockstar says Leonida weather is local, persistent and dynamic. See what The Weather Channel forecast showed."
+  },
+  {
+    "title": "What Phone Apps Are in GTA 6? | Peekhole",
+    "slug": "what-phone-apps-are-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/what-phone-apps-are-in-gta-6-peekhole.html",
+    "date": "2026-11-17",
+    "date_display": "November 17, 2026",
+    "description": "What phone apps are in GTA 6? Calls, texts, livestreams and a camera are shown. WAINK, Scooter Bros and Peekhole as an app are still unconfirmed."
+  },
+  {
     "title": "Can You Get GTA 6 Free on Twitch or Kick? | Peekhole",
     "slug": "can-you-get-gta-6-free-twitch-kick-peekhole",
     "url": "https://blog.peekhole.com/posts/can-you-get-gta-6-free-twitch-kick-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-16",
     "date_display": "November 16, 2026",
     "description": "Is Burger Shot real? For now, yes: Skinny Louie is running GTA 6 Burger Shot pop-ups across Florida through Dec 31. Menu, where to go, and dates."
-  },
-  {
-    "title": "What Is GTA 6 Update 01.002.001? | Peekhole",
-    "slug": "gta-6-update-01-002-001-second-patch-peekhole",
-    "url": "https://blog.peekhole.com/posts/gta-6-update-01-002-001-second-patch-peekhole.html",
-    "date": "2026-11-16",
-    "date_display": "November 16, 2026",
-    "description": "What is GTA 6 update 01.002.001? A second pre-launch patch, about 600MB on PS5 and 1.6GB on Xbox, rolling out in waves. No patch notes yet."
-  },
-  {
-    "title": "GTA 6 Box Has No Code? What to Do | Peekhole",
-    "slug": "gta-6-box-no-code-what-to-do-peekhole",
-    "url": "https://blog.peekhole.com/posts/gta-6-box-no-code-what-to-do-peekhole.html",
-    "date": "2026-11-15",
-    "date_display": "November 15, 2026",
-    "description": "GTA 6 box has no code? Some code-in-box copies show a blank grey strip. Who to contact, what to keep, and what Rockstar's FAQ says."
-  },
-  {
-    "title": "Can You Go on Dates in GTA 6? | Peekhole",
-    "slug": "can-you-go-on-dates-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/can-you-go-on-dates-in-gta-6-peekhole.html",
-    "date": "2026-11-15",
-    "date_display": "November 15, 2026",
-    "description": "Can you go on dates in GTA 6? Yes: Jason and Lucia hit the gym, a bar, even a liquor store robbery. Here's what the Guardian preview showed."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

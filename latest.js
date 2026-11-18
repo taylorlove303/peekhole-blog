@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "What Is GTA 6's Metacritic Score? | Peekhole",
+    "slug": "what-is-gta-6-metacritic-score-peekhole",
+    "url": "https://blog.peekhole.com/posts/what-is-gta-6-metacritic-score-peekhole.html",
+    "date": "2026-11-18",
+    "date_display": "November 18, 2026",
+    "description": "What is GTA 6's Metacritic score? It opened at 99, tying Ocarina of Time for the highest ever. Here's what critics said as reviews went live Nov 18."
+  },
+  {
+    "title": "How Long Is GTA 6 to Beat? | Peekhole",
+    "slug": "how-long-is-gta-6-to-beat-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-long-is-gta-6-to-beat-peekhole.html",
+    "date": "2026-11-18",
+    "date_display": "November 18, 2026",
+    "description": "How long is GTA 6 to beat? Reviewers hit the credits in 42 to 115 hours. Plan on 60 to 80 with some side content. 100% could pass 200 hours."
+  },
+  {
+    "title": "What Does GTA+ Include in GTA 6? | Peekhole",
+    "slug": "what-does-gta-plus-include-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/what-does-gta-plus-include-gta-6-peekhole.html",
+    "date": "2026-11-18",
+    "date_display": "November 18, 2026",
+    "description": "What does GTA+ include in GTA 6? For $8 a month: a free Elegy supercar and garage, RydeMe premium, free transit, 10% store discounts and more."
+  },
+  {
     "title": "When Do GTA 6 Reviews Come Out? | Peekhole",
     "slug": "when-do-gta-6-reviews-come-out-peekhole",
     "url": "https://blog.peekhole.com/posts/when-do-gta-6-reviews-come-out-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-17",
     "date_display": "November 17, 2026",
     "description": "Does GTA 6 have dynamic weather? Yes: Rockstar says Leonida weather is local, persistent and dynamic. See what The Weather Channel forecast showed."
-  },
-  {
-    "title": "What Phone Apps Are in GTA 6? | Peekhole",
-    "slug": "what-phone-apps-are-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/what-phone-apps-are-in-gta-6-peekhole.html",
-    "date": "2026-11-17",
-    "date_display": "November 17, 2026",
-    "description": "What phone apps are in GTA 6? Calls, texts, livestreams and a camera are shown. WAINK, Scooter Bros and Peekhole as an app are still unconfirmed."
-  },
-  {
-    "title": "Can You Get GTA 6 Free on Twitch or Kick? | Peekhole",
-    "slug": "can-you-get-gta-6-free-twitch-kick-peekhole",
-    "url": "https://blog.peekhole.com/posts/can-you-get-gta-6-free-twitch-kick-peekhole.html",
-    "date": "2026-11-16",
-    "date_display": "November 16, 2026",
-    "description": "Can you get GTA 6 free on Twitch or Kick? Yes, by luck: both are giving away Ultimate Edition codes. How each giveaway works and what is still unknown."
-  },
-  {
-    "title": "Is Burger Shot Real? GTA 6 Pop-Ups in Florida | Peekhole",
-    "slug": "is-burger-shot-real-gta-6-florida-peekhole",
-    "url": "https://blog.peekhole.com/posts/is-burger-shot-real-gta-6-florida-peekhole.html",
-    "date": "2026-11-16",
-    "date_display": "November 16, 2026",
-    "description": "Is Burger Shot real? For now, yes: Skinny Louie is running GTA 6 Burger Shot pop-ups across Florida through Dec 31. Menu, where to go, and dates."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "How Do You Unlock Cheats in GTA 6? | Peekhole",
+    "slug": "how-to-unlock-cheats-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-to-unlock-cheats-in-gta-6-peekhole.html",
+    "date": "2026-11-19",
+    "date_display": "November 19, 2026",
+    "description": "How do you unlock cheats in GTA 6? Finish all 91 story missions first, then beat each cheat's own challenge. Using one turns off saving and trophies."
+  },
+  {
+    "title": "Is GTA 6 Buggy? Launch Bugs and Fixes | Peekhole",
+    "slug": "is-gta-6-buggy-launch-bugs-fixes-peekhole",
+    "url": "https://blog.peekhole.com/posts/is-gta-6-buggy-launch-bugs-fixes-peekhole.html",
+    "date": "2026-11-19",
+    "date_display": "November 19, 2026",
+    "description": "Is GTA 6 buggy? Players report map falls, clipping and crashes on launch day. Rockstar hasn't commented yet. Here are the bugs and the simple fixes."
+  },
+  {
+    "title": "How Many Copies Has GTA 6 Sold? | Peekhole",
+    "slug": "how-many-copies-has-gta-6-sold-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-many-copies-has-gta-6-sold-peekhole.html",
+    "date": "2026-11-19",
+    "date_display": "November 19, 2026",
+    "description": "How many copies has GTA 6 sold? About 17 million digital copies and $1.65 billion by launch day, per Sensor Tower estimates. No official count yet."
+  },
+  {
     "title": "What Is GTA 6's Metacritic Score? | Peekhole",
     "slug": "what-is-gta-6-metacritic-score-peekhole",
     "url": "https://blog.peekhole.com/posts/what-is-gta-6-metacritic-score-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-18",
     "date_display": "November 18, 2026",
     "description": "How long is GTA 6 to beat? Reviewers hit the credits in 42 to 115 hours. Plan on 60 to 80 with some side content. 100% could pass 200 hours."
-  },
-  {
-    "title": "What Does GTA+ Include in GTA 6? | Peekhole",
-    "slug": "what-does-gta-plus-include-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/what-does-gta-plus-include-gta-6-peekhole.html",
-    "date": "2026-11-18",
-    "date_display": "November 18, 2026",
-    "description": "What does GTA+ include in GTA 6? For $8 a month: a free Elegy supercar and garage, RydeMe premium, free transit, 10% store discounts and more."
-  },
-  {
-    "title": "When Do GTA 6 Reviews Come Out? | Peekhole",
-    "slug": "when-do-gta-6-reviews-come-out-peekhole",
-    "url": "https://blog.peekhole.com/posts/when-do-gta-6-reviews-come-out-peekhole.html",
-    "date": "2026-11-17",
-    "date_display": "November 17, 2026",
-    "description": "When do GTA 6 reviews come out? Reports say Wednesday, Nov 18, likely early morning US time. Rockstar has not confirmed the date or the hour."
-  },
-  {
-    "title": "Does GTA 6 Have Dynamic Weather? | Peekhole",
-    "slug": "does-gta-6-have-dynamic-weather-peekhole",
-    "url": "https://blog.peekhole.com/posts/does-gta-6-have-dynamic-weather-peekhole.html",
-    "date": "2026-11-17",
-    "date_display": "November 17, 2026",
-    "description": "Does GTA 6 have dynamic weather? Yes: Rockstar says Leonida weather is local, persistent and dynamic. See what The Weather Channel forecast showed."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

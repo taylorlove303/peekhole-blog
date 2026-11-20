@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "What Songs Are on the GTA 6 Album? | Peekhole",
+    "slug": "what-songs-are-on-gta-6-album-peekhole",
+    "url": "https://blog.peekhole.com/posts/what-songs-are-on-gta-6-album-peekhole.html",
+    "date": "2026-11-20",
+    "date_display": "November 20, 2026",
+    "description": "What songs are on the GTA 6 album? 34 tracks out Nov 20, with Lana Del Rey, Dua Lipa, JENNIE, Playboi Carti and more. Plus the surprise radio songs."
+  },
+  {
+    "title": "Is Niko Bellic in GTA 6? | Peekhole",
+    "slug": "is-niko-bellic-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/is-niko-bellic-in-gta-6-peekhole.html",
+    "date": "2026-11-20",
+    "date_display": "November 20, 2026",
+    "description": "Is Niko Bellic in GTA 6? Yes. He shows up in Chapter 5 mission Taking Liberties, voiced again by Michael Hollick. Spoilers inside."
+  },
+  {
+    "title": "Where Is the Easter Egg in GTA 6? | Peekhole",
+    "slug": "where-is-the-easter-egg-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/where-is-the-easter-egg-in-gta-6-peekhole.html",
+    "date": "2026-11-20",
+    "date_display": "November 20, 2026",
+    "description": "Where is the Easter egg in GTA 6? In a nest on top of the Bluegrass Radio Mast in Vice-Dale County. Climb up, throw it, and watch what happens."
+  },
+  {
     "title": "How Do You Unlock Cheats in GTA 6? | Peekhole",
     "slug": "how-to-unlock-cheats-in-gta-6-peekhole",
     "url": "https://blog.peekhole.com/posts/how-to-unlock-cheats-in-gta-6-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-19",
     "date_display": "November 19, 2026",
     "description": "Is GTA 6 buggy? Players report map falls, clipping and crashes on launch day. Rockstar hasn't commented yet. Here are the bugs and the simple fixes."
-  },
-  {
-    "title": "How Many Copies Has GTA 6 Sold? | Peekhole",
-    "slug": "how-many-copies-has-gta-6-sold-peekhole",
-    "url": "https://blog.peekhole.com/posts/how-many-copies-has-gta-6-sold-peekhole.html",
-    "date": "2026-11-19",
-    "date_display": "November 19, 2026",
-    "description": "How many copies has GTA 6 sold? About 17 million digital copies and $1.65 billion by launch day, per Sensor Tower estimates. No official count yet."
-  },
-  {
-    "title": "What Is GTA 6's Metacritic Score? | Peekhole",
-    "slug": "what-is-gta-6-metacritic-score-peekhole",
-    "url": "https://blog.peekhole.com/posts/what-is-gta-6-metacritic-score-peekhole.html",
-    "date": "2026-11-18",
-    "date_display": "November 18, 2026",
-    "description": "What is GTA 6's Metacritic score? It opened at 99, tying Ocarina of Time for the highest ever. Here's what critics said as reviews went live Nov 18."
-  },
-  {
-    "title": "How Long Is GTA 6 to Beat? | Peekhole",
-    "slug": "how-long-is-gta-6-to-beat-peekhole",
-    "url": "https://blog.peekhole.com/posts/how-long-is-gta-6-to-beat-peekhole.html",
-    "date": "2026-11-18",
-    "date_display": "November 18, 2026",
-    "description": "How long is GTA 6 to beat? Reviewers hit the credits in 42 to 115 hours. Plan on 60 to 80 with some side content. 100% could pass 200 hours."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

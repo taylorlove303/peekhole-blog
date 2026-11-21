@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "How Many Endings Does GTA 6 Have? | Peekhole",
+    "slug": "how-many-endings-does-gta-6-have-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-many-endings-does-gta-6-have-peekhole.html",
+    "date": "2026-11-21",
+    "date_display": "November 21, 2026",
+    "description": "How many endings does GTA 6 have? At least four so far, and Rockstar says a lot more than two. Here's what decides yours, spoiler-free."
+  },
+  {
+    "title": "Why Can't I Steal Cars in GTA 6? | Peekhole",
+    "slug": "why-cant-i-steal-cars-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/why-cant-i-steal-cars-in-gta-6-peekhole.html",
+    "date": "2026-11-21",
+    "date_display": "November 21, 2026",
+    "description": "Why can't I steal cars in GTA 6? Keyless cars need a key cloner from Chapter 3. Here's how slim jims, Waink It and trackers work."
+  },
+  {
+    "title": "Where Are the Strip Clubs in GTA 6? | Peekhole",
+    "slug": "where-are-the-strip-clubs-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/where-are-the-strip-clubs-in-gta-6-peekhole.html",
+    "date": "2026-11-21",
+    "date_display": "November 21, 2026",
+    "description": "Where are the strip clubs in GTA 6? Delights Cabaret, NINE1NINE and Jack of Hearts. Locations, private dance prices and when each one unlocks."
+  },
+  {
     "title": "What Songs Are on the GTA 6 Album? | Peekhole",
     "slug": "what-songs-are-on-gta-6-album-peekhole",
     "url": "https://blog.peekhole.com/posts/what-songs-are-on-gta-6-album-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-20",
     "date_display": "November 20, 2026",
     "description": "Is Niko Bellic in GTA 6? Yes. He shows up in Chapter 5 mission Taking Liberties, voiced again by Michael Hollick. Spoilers inside."
-  },
-  {
-    "title": "Where Is the Easter Egg in GTA 6? | Peekhole",
-    "slug": "where-is-the-easter-egg-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/where-is-the-easter-egg-in-gta-6-peekhole.html",
-    "date": "2026-11-20",
-    "date_display": "November 20, 2026",
-    "description": "Where is the Easter egg in GTA 6? In a nest on top of the Bluegrass Radio Mast in Vice-Dale County. Climb up, throw it, and watch what happens."
-  },
-  {
-    "title": "How Do You Unlock Cheats in GTA 6? | Peekhole",
-    "slug": "how-to-unlock-cheats-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/how-to-unlock-cheats-in-gta-6-peekhole.html",
-    "date": "2026-11-19",
-    "date_display": "November 19, 2026",
-    "description": "How do you unlock cheats in GTA 6? Finish all 91 story missions first, then beat each cheat's own challenge. Using one turns off saving and trophies."
-  },
-  {
-    "title": "Is GTA 6 Buggy? Launch Bugs and Fixes | Peekhole",
-    "slug": "is-gta-6-buggy-launch-bugs-fixes-peekhole",
-    "url": "https://blog.peekhole.com/posts/is-gta-6-buggy-launch-bugs-fixes-peekhole.html",
-    "date": "2026-11-19",
-    "date_display": "November 19, 2026",
-    "description": "Is GTA 6 buggy? Players report map falls, clipping and crashes on launch day. Rockstar hasn't commented yet. Here are the bugs and the simple fixes."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

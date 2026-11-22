@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "Where Is Peekhole in GTA 6? | Peekhole",
+    "slug": "where-is-peekhole-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/where-is-peekhole-in-gta-6-peekhole.html",
+    "date": "2026-11-22",
+    "date_display": "November 22, 2026",
+    "description": "Where is Peekhole in GTA 6? It's a tab on Boobie's laptop in Chapter 3. The password MuffinsQueen15 opens it, plus a secret garage code."
+  },
+  {
+    "title": "Is There a GTA 6 Patch on November 25? | Peekhole",
+    "slug": "is-there-a-gta-6-patch-november-25-peekhole",
+    "url": "https://blog.peekhole.com/posts/is-there-a-gta-6-patch-november-25-peekhole.html",
+    "date": "2026-11-22",
+    "date_display": "November 22, 2026",
+    "description": "Is there a GTA 6 patch on November 25? No. Rockstar announced no such fix. The game is still on 01.002.001. Here is what to do about crashes now."
+  },
+  {
+    "title": "Is GTA 6 Coming to PC? What We Know | Peekhole",
+    "slug": "is-gta-6-coming-to-pc-peekhole",
+    "url": "https://blog.peekhole.com/posts/is-gta-6-coming-to-pc-peekhole.html",
+    "date": "2026-11-22",
+    "date_display": "November 22, 2026",
+    "description": "Is GTA 6 coming to PC? Rockstar hasn't announced it. One report says early 2027, but it's unconfirmed. Here's what's real and what's rumor."
+  },
+  {
     "title": "How Many Endings Does GTA 6 Have? | Peekhole",
     "slug": "how-many-endings-does-gta-6-have-peekhole",
     "url": "https://blog.peekhole.com/posts/how-many-endings-does-gta-6-have-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-21",
     "date_display": "November 21, 2026",
     "description": "Why can't I steal cars in GTA 6? Keyless cars need a key cloner from Chapter 3. Here's how slim jims, Waink It and trackers work."
-  },
-  {
-    "title": "Where Are the Strip Clubs in GTA 6? | Peekhole",
-    "slug": "where-are-the-strip-clubs-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/where-are-the-strip-clubs-in-gta-6-peekhole.html",
-    "date": "2026-11-21",
-    "date_display": "November 21, 2026",
-    "description": "Where are the strip clubs in GTA 6? Delights Cabaret, NINE1NINE and Jack of Hearts. Locations, private dance prices and when each one unlocks."
-  },
-  {
-    "title": "What Songs Are on the GTA 6 Album? | Peekhole",
-    "slug": "what-songs-are-on-gta-6-album-peekhole",
-    "url": "https://blog.peekhole.com/posts/what-songs-are-on-gta-6-album-peekhole.html",
-    "date": "2026-11-20",
-    "date_display": "November 20, 2026",
-    "description": "What songs are on the GTA 6 album? 34 tracks out Nov 20, with Lana Del Rey, Dua Lipa, JENNIE, Playboi Carti and more. Plus the surprise radio songs."
-  },
-  {
-    "title": "Is Niko Bellic in GTA 6? | Peekhole",
-    "slug": "is-niko-bellic-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/is-niko-bellic-in-gta-6-peekhole.html",
-    "date": "2026-11-20",
-    "date_display": "November 20, 2026",
-    "description": "Is Niko Bellic in GTA 6? Yes. He shows up in Chapter 5 mission Taking Liberties, voiced again by Michael Hollick. Spoilers inside."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

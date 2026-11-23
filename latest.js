@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "What Is GTA 6 Update 01.002.002? | Peekhole",
+    "slug": "what-is-gta-6-update-01-002-002-peekhole",
+    "url": "https://blog.peekhole.com/posts/what-is-gta-6-update-01-002-002-peekhole.html",
+    "date": "2026-11-23",
+    "date_display": "November 23, 2026",
+    "description": "What is GTA 6 update 01.002.002? It's the first patch since launch, out Nov 23 on PS5 and Xbox. Size, rollout waves, and why there are no notes."
+  },
+  {
+    "title": "Can You Play Darts in GTA 6? | Peekhole",
+    "slug": "can-you-play-darts-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/can-you-play-darts-in-gta-6-peekhole.html",
+    "date": "2026-11-23",
+    "date_display": "November 23, 2026",
+    "description": "Can you play darts in GTA 6? No. Rockstar cut darts and bowling. Pool, weightlifting and basketball made it in. Here's why, in Rockstar's words."
+  },
+  {
+    "title": "Can You Still Get GTA 6 Vintage Vice City Pack? | Peekhole",
+    "slug": "can-you-still-get-gta-6-vintage-vice-city-pack-peekhole",
+    "url": "https://blog.peekhole.com/posts/can-you-still-get-gta-6-vintage-vice-city-pack-peekhole.html",
+    "date": "2026-11-23",
+    "date_display": "November 23, 2026",
+    "description": "Can you still get the GTA 6 Vintage Vice City Pack? Yes. It's now a $4.99 add-on on PS5 and Xbox. Here's what's inside and who already has it."
+  },
+  {
     "title": "Where Is Peekhole in GTA 6? | Peekhole",
     "slug": "where-is-peekhole-in-gta-6-peekhole",
     "url": "https://blog.peekhole.com/posts/where-is-peekhole-in-gta-6-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-22",
     "date_display": "November 22, 2026",
     "description": "Is there a GTA 6 patch on November 25? No. Rockstar announced no such fix. The game is still on 01.002.001. Here is what to do about crashes now."
-  },
-  {
-    "title": "Is GTA 6 Coming to PC? What We Know | Peekhole",
-    "slug": "is-gta-6-coming-to-pc-peekhole",
-    "url": "https://blog.peekhole.com/posts/is-gta-6-coming-to-pc-peekhole.html",
-    "date": "2026-11-22",
-    "date_display": "November 22, 2026",
-    "description": "Is GTA 6 coming to PC? Rockstar hasn't announced it. One report says early 2027, but it's unconfirmed. Here's what's real and what's rumor."
-  },
-  {
-    "title": "How Many Endings Does GTA 6 Have? | Peekhole",
-    "slug": "how-many-endings-does-gta-6-have-peekhole",
-    "url": "https://blog.peekhole.com/posts/how-many-endings-does-gta-6-have-peekhole.html",
-    "date": "2026-11-21",
-    "date_display": "November 21, 2026",
-    "description": "How many endings does GTA 6 have? At least four so far, and Rockstar says a lot more than two. Here's what decides yours, spoiler-free."
-  },
-  {
-    "title": "Why Can't I Steal Cars in GTA 6? | Peekhole",
-    "slug": "why-cant-i-steal-cars-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/why-cant-i-steal-cars-in-gta-6-peekhole.html",
-    "date": "2026-11-21",
-    "date_display": "November 21, 2026",
-    "description": "Why can't I steal cars in GTA 6? Keyless cars need a key cloner from Chapter 3. Here's how slim jims, Waink It and trackers work."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

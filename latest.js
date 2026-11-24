@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "How Do You Go to Hell in GTA 6? | Peekhole",
+    "slug": "how-do-you-go-to-hell-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-do-you-go-to-hell-in-gta-6-peekhole.html",
+    "date": "2026-11-24",
+    "date_display": "November 24, 2026",
+    "description": "How do you go to Hell in GTA 6? Find the Circles of Hell garage in north Port Gellhorn at night after Chapter 2 starts. Steps, boss tips and rewards."
+  },
+  {
+    "title": "Does GTA 6 Have Websites? | Peekhole",
+    "slug": "does-gta-6-have-websites-peekhole",
+    "url": "https://blog.peekhole.com/posts/does-gta-6-have-websites-peekhole.html",
+    "date": "2026-11-24",
+    "date_display": "November 24, 2026",
+    "description": "Does GTA 6 have websites? No. Rockstar dropped the fictional internet for phone apps and social feeds. Here's why, in Rockstar's own words."
+  },
+  {
+    "title": "Who Plays Lucia in GTA 6? | Peekhole",
+    "slug": "who-plays-lucia-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/who-plays-lucia-in-gta-6-peekhole.html",
+    "date": "2026-11-24",
+    "date_display": "November 24, 2026",
+    "description": "Who plays Lucia in GTA 6? Manni L. Perez, now up for Best Performance at The Game Awards. Plus who plays Jason, and other big cast names."
+  },
+  {
     "title": "What Is GTA 6 Update 01.002.002? | Peekhole",
     "slug": "what-is-gta-6-update-01-002-002-peekhole",
     "url": "https://blog.peekhole.com/posts/what-is-gta-6-update-01-002-002-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-23",
     "date_display": "November 23, 2026",
     "description": "Can you play darts in GTA 6? No. Rockstar cut darts and bowling. Pool, weightlifting and basketball made it in. Here's why, in Rockstar's words."
-  },
-  {
-    "title": "Can You Still Get GTA 6 Vintage Vice City Pack? | Peekhole",
-    "slug": "can-you-still-get-gta-6-vintage-vice-city-pack-peekhole",
-    "url": "https://blog.peekhole.com/posts/can-you-still-get-gta-6-vintage-vice-city-pack-peekhole.html",
-    "date": "2026-11-23",
-    "date_display": "November 23, 2026",
-    "description": "Can you still get the GTA 6 Vintage Vice City Pack? Yes. It's now a $4.99 add-on on PS5 and Xbox. Here's what's inside and who already has it."
-  },
-  {
-    "title": "Where Is Peekhole in GTA 6? | Peekhole",
-    "slug": "where-is-peekhole-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/where-is-peekhole-in-gta-6-peekhole.html",
-    "date": "2026-11-22",
-    "date_display": "November 22, 2026",
-    "description": "Where is Peekhole in GTA 6? It's a tab on Boobie's laptop in Chapter 3. The password MuffinsQueen15 opens it, plus a secret garage code."
-  },
-  {
-    "title": "Is There a GTA 6 Patch on November 25? | Peekhole",
-    "slug": "is-there-a-gta-6-patch-november-25-peekhole",
-    "url": "https://blog.peekhole.com/posts/is-there-a-gta-6-patch-november-25-peekhole.html",
-    "date": "2026-11-22",
-    "date_display": "November 22, 2026",
-    "description": "Is there a GTA 6 patch on November 25? No. Rockstar announced no such fix. The game is still on 01.002.001. Here is what to do about crashes now."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

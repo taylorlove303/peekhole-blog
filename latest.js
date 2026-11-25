@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "Is GTA 6 Too Easy? Rockstar Explains | Peekhole",
+    "slug": "is-gta-6-too-easy-peekhole",
+    "url": "https://blog.peekhole.com/posts/is-gta-6-too-easy-peekhole.html",
+    "date": "2026-11-25",
+    "date_display": "November 25, 2026",
+    "description": "Is GTA 6 too easy? Rockstar says the story missions are tuned between GTA 4's punishing fails and GTA 5's easy ride, with harder side content."
+  },
+  {
+    "title": "How Do You Open the Vice City Portal in GTA 6? | Peekhole",
+    "slug": "how-to-open-vice-city-portal-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-to-open-vice-city-portal-in-gta-6-peekhole.html",
+    "date": "2026-11-25",
+    "date_display": "November 25, 2026",
+    "description": "How do you open the Vice City portal in GTA 6? Radio tower, 12 substations in order, then a power station at night. Steps and rewards."
+  },
+  {
+    "title": "Which Console Runs GTA 6 Best? | Peekhole",
+    "slug": "which-console-runs-gta-6-best-peekhole",
+    "url": "https://blog.peekhole.com/posts/which-console-runs-gta-6-best-peekhole.html",
+    "date": "2026-11-25",
+    "date_display": "November 25, 2026",
+    "description": "Which console runs GTA 6 best? PS5 Pro holds 30fps most steadily, Series X edges base PS5 in fast driving, and Series S trails. Details here."
+  },
+  {
     "title": "How Do You Go to Hell in GTA 6? | Peekhole",
     "slug": "how-do-you-go-to-hell-in-gta-6-peekhole",
     "url": "https://blog.peekhole.com/posts/how-do-you-go-to-hell-in-gta-6-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-24",
     "date_display": "November 24, 2026",
     "description": "Does GTA 6 have websites? No. Rockstar dropped the fictional internet for phone apps and social feeds. Here's why, in Rockstar's own words."
-  },
-  {
-    "title": "Who Plays Lucia in GTA 6? | Peekhole",
-    "slug": "who-plays-lucia-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/who-plays-lucia-in-gta-6-peekhole.html",
-    "date": "2026-11-24",
-    "date_display": "November 24, 2026",
-    "description": "Who plays Lucia in GTA 6? Manni L. Perez, now up for Best Performance at The Game Awards. Plus who plays Jason, and other big cast names."
-  },
-  {
-    "title": "What Is GTA 6 Update 01.002.002? | Peekhole",
-    "slug": "what-is-gta-6-update-01-002-002-peekhole",
-    "url": "https://blog.peekhole.com/posts/what-is-gta-6-update-01-002-002-peekhole.html",
-    "date": "2026-11-23",
-    "date_display": "November 23, 2026",
-    "description": "What is GTA 6 update 01.002.002? It's the first patch since launch, out Nov 23 on PS5 and Xbox. Size, rollout waves, and why there are no notes."
-  },
-  {
-    "title": "Can You Play Darts in GTA 6? | Peekhole",
-    "slug": "can-you-play-darts-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/can-you-play-darts-in-gta-6-peekhole.html",
-    "date": "2026-11-23",
-    "date_display": "November 23, 2026",
-    "description": "Can you play darts in GTA 6? No. Rockstar cut darts and bowling. Pool, weightlifting and basketball made it in. Here's why, in Rockstar's words."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

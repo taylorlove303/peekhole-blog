@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "What Happens If You Scan a GTA 6 QR Code? | Peekhole",
+    "slug": "what-happens-if-you-scan-gta-6-qr-code-peekhole",
+    "url": "https://blog.peekhole.com/posts/what-happens-if-you-scan-gta-6-qr-code-peekhole.html",
+    "date": "2026-11-26",
+    "date_display": "November 26, 2026",
+    "description": "What happens if you scan a GTA 6 QR code, like the Peekhole one, with a real phone? You land on a fake FIB 'website seized' page from Rockstar."
+  },
+  {
+    "title": "Can You Replay Missions in GTA 6? | Peekhole",
+    "slug": "can-you-replay-missions-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/can-you-replay-missions-in-gta-6-peekhole.html",
+    "date": "2026-11-26",
+    "date_display": "November 26, 2026",
+    "description": "Can you replay missions in GTA 6? Not from a menu. Rockstar says mission replay clashed with the story's choices. Here's the workaround."
+  },
+  {
+    "title": "How Do You Fix the GTA 6 Chapter 3 Softlock? | Peekhole",
+    "slug": "how-to-fix-gta-6-chapter-3-softlock-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-to-fix-gta-6-chapter-3-softlock-peekhole.html",
+    "date": "2026-11-26",
+    "date_display": "November 26, 2026",
+    "description": "How do you fix the GTA 6 Chapter 3 softlock where you can't switch from Lucia to Jason? Workarounds players report, since the patch didn't fix it."
+  },
+  {
     "title": "Is GTA 6 Too Easy? Rockstar Explains | Peekhole",
     "slug": "is-gta-6-too-easy-peekhole",
     "url": "https://blog.peekhole.com/posts/is-gta-6-too-easy-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-25",
     "date_display": "November 25, 2026",
     "description": "How do you open the Vice City portal in GTA 6? Radio tower, 12 substations in order, then a power station at night. Steps and rewards."
-  },
-  {
-    "title": "Which Console Runs GTA 6 Best? | Peekhole",
-    "slug": "which-console-runs-gta-6-best-peekhole",
-    "url": "https://blog.peekhole.com/posts/which-console-runs-gta-6-best-peekhole.html",
-    "date": "2026-11-25",
-    "date_display": "November 25, 2026",
-    "description": "Which console runs GTA 6 best? PS5 Pro holds 30fps most steadily, Series X edges base PS5 in fast driving, and Series S trails. Details here."
-  },
-  {
-    "title": "How Do You Go to Hell in GTA 6? | Peekhole",
-    "slug": "how-do-you-go-to-hell-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/how-do-you-go-to-hell-in-gta-6-peekhole.html",
-    "date": "2026-11-24",
-    "date_display": "November 24, 2026",
-    "description": "How do you go to Hell in GTA 6? Find the Circles of Hell garage in north Port Gellhorn at night after Chapter 2 starts. Steps, boss tips and rewards."
-  },
-  {
-    "title": "Does GTA 6 Have Websites? | Peekhole",
-    "slug": "does-gta-6-have-websites-peekhole",
-    "url": "https://blog.peekhole.com/posts/does-gta-6-have-websites-peekhole.html",
-    "date": "2026-11-24",
-    "date_display": "November 24, 2026",
-    "description": "Does GTA 6 have websites? No. Rockstar dropped the fictional internet for phone apps and social feeds. Here's why, in Rockstar's own words."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "Is GTA 6 on Sale for Black Friday? | Peekhole",
+    "slug": "is-gta-6-on-sale-for-black-friday-peekhole",
+    "url": "https://blog.peekhole.com/posts/is-gta-6-on-sale-for-black-friday-peekhole.html",
+    "date": "2026-11-27",
+    "date_display": "November 27, 2026",
+    "description": "Is GTA 6 on sale for Black Friday? Not officially. Rockstar, PlayStation and Xbox still list $79.99, but some key sellers knock off about $10."
+  },
+  {
+    "title": "Can You Post on Snapmatic in GTA 6? | Peekhole",
+    "slug": "can-you-post-on-snapmatic-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/can-you-post-on-snapmatic-in-gta-6-peekhole.html",
+    "date": "2026-11-27",
+    "date_display": "November 27, 2026",
+    "description": "Can you post on Snapmatic in GTA 6? No. Jason and Lucia can scroll, follow, like and read comments, but can't upload. Here's what the app does."
+  },
+  {
+    "title": "How Do You Unlock The Vault Radio in GTA 6? | Peekhole",
+    "slug": "how-to-unlock-the-vault-radio-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-to-unlock-the-vault-radio-in-gta-6-peekhole.html",
+    "date": "2026-11-27",
+    "date_display": "November 27, 2026",
+    "description": "How do you unlock The Vault radio in GTA 6? Visit The Vault nightclub in Vice City and scan its gas-mask poster with the WAiNK app. Here's where."
+  },
+  {
     "title": "What Happens If You Scan a GTA 6 QR Code? | Peekhole",
     "slug": "what-happens-if-you-scan-gta-6-qr-code-peekhole",
     "url": "https://blog.peekhole.com/posts/what-happens-if-you-scan-gta-6-qr-code-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-26",
     "date_display": "November 26, 2026",
     "description": "Can you replay missions in GTA 6? Not from a menu. Rockstar says mission replay clashed with the story's choices. Here's the workaround."
-  },
-  {
-    "title": "How Do You Fix the GTA 6 Chapter 3 Softlock? | Peekhole",
-    "slug": "how-to-fix-gta-6-chapter-3-softlock-peekhole",
-    "url": "https://blog.peekhole.com/posts/how-to-fix-gta-6-chapter-3-softlock-peekhole.html",
-    "date": "2026-11-26",
-    "date_display": "November 26, 2026",
-    "description": "How do you fix the GTA 6 Chapter 3 softlock where you can't switch from Lucia to Jason? Workarounds players report, since the patch didn't fix it."
-  },
-  {
-    "title": "Is GTA 6 Too Easy? Rockstar Explains | Peekhole",
-    "slug": "is-gta-6-too-easy-peekhole",
-    "url": "https://blog.peekhole.com/posts/is-gta-6-too-easy-peekhole.html",
-    "date": "2026-11-25",
-    "date_display": "November 25, 2026",
-    "description": "Is GTA 6 too easy? Rockstar says the story missions are tuned between GTA 4's punishing fails and GTA 5's easy ride, with harder side content."
-  },
-  {
-    "title": "How Do You Open the Vice City Portal in GTA 6? | Peekhole",
-    "slug": "how-to-open-vice-city-portal-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/how-to-open-vice-city-portal-in-gta-6-peekhole.html",
-    "date": "2026-11-25",
-    "date_display": "November 25, 2026",
-    "description": "How do you open the Vice City portal in GTA 6? Radio tower, 12 substations in order, then a power station at night. Steps and rewards."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";

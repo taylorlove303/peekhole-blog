@@ -3,6 +3,30 @@
   var ROOT = "https://blog.peekhole.com";
   var FALLBACK_POSTS = [
   {
+    "title": "Is There a GTA 6 Crossover in NBA 2K27? | Peekhole",
+    "slug": "is-there-a-gta-6-crossover-in-nba-2k27-peekhole",
+    "url": "https://blog.peekhole.com/posts/is-there-a-gta-6-crossover-in-nba-2k27-peekhole.html",
+    "date": "2026-11-28",
+    "date_display": "November 28, 2026",
+    "description": "Is there a GTA 6 crossover in NBA 2K27? Yes. Season 3 brings a Vice City park, Sahara Arena and themed events from Nov 27 to Jan 15."
+  },
+  {
+    "title": "How Do You Use RydeMe in GTA 6? | Peekhole",
+    "slug": "how-do-you-use-rydeme-in-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/how-do-you-use-rydeme-in-gta-6-peekhole.html",
+    "date": "2026-11-28",
+    "date_display": "November 28, 2026",
+    "description": "How do you use RydeMe in GTA 6? Set a map marker, open RydeMe on the phone, pick Book Ryde, then hold L2 to skip the trip for $100."
+  },
+  {
+    "title": "What Is the Victoria Lee Jeweler Safe Code? | Peekhole",
+    "slug": "victoria-lee-jeweler-safe-code-gta-6-peekhole",
+    "url": "https://blog.peekhole.com/posts/victoria-lee-jeweler-safe-code-gta-6-peekhole.html",
+    "date": "2026-11-28",
+    "date_display": "November 28, 2026",
+    "description": "What is the Victoria Lee Jeweler safe code in GTA 6? It's 0347. Here's how to rob the Capri jewelry store quietly for up to $20,000."
+  },
+  {
     "title": "Is GTA 6 on Sale for Black Friday? | Peekhole",
     "slug": "is-gta-6-on-sale-for-black-friday-peekhole",
     "url": "https://blog.peekhole.com/posts/is-gta-6-on-sale-for-black-friday-peekhole.html",
@@ -17,30 +41,6 @@
     "date": "2026-11-27",
     "date_display": "November 27, 2026",
     "description": "Can you post on Snapmatic in GTA 6? No. Jason and Lucia can scroll, follow, like and read comments, but can't upload. Here's what the app does."
-  },
-  {
-    "title": "How Do You Unlock The Vault Radio in GTA 6? | Peekhole",
-    "slug": "how-to-unlock-the-vault-radio-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/how-to-unlock-the-vault-radio-in-gta-6-peekhole.html",
-    "date": "2026-11-27",
-    "date_display": "November 27, 2026",
-    "description": "How do you unlock The Vault radio in GTA 6? Visit The Vault nightclub in Vice City and scan its gas-mask poster with the WAiNK app. Here's where."
-  },
-  {
-    "title": "What Happens If You Scan a GTA 6 QR Code? | Peekhole",
-    "slug": "what-happens-if-you-scan-gta-6-qr-code-peekhole",
-    "url": "https://blog.peekhole.com/posts/what-happens-if-you-scan-gta-6-qr-code-peekhole.html",
-    "date": "2026-11-26",
-    "date_display": "November 26, 2026",
-    "description": "What happens if you scan a GTA 6 QR code, like the Peekhole one, with a real phone? You land on a fake FIB 'website seized' page from Rockstar."
-  },
-  {
-    "title": "Can You Replay Missions in GTA 6? | Peekhole",
-    "slug": "can-you-replay-missions-in-gta-6-peekhole",
-    "url": "https://blog.peekhole.com/posts/can-you-replay-missions-in-gta-6-peekhole.html",
-    "date": "2026-11-26",
-    "date_display": "November 26, 2026",
-    "description": "Can you replay missions in GTA 6? Not from a menu. Rockstar says mission replay clashed with the story's choices. Here's the workaround."
   }
 ];
   var STYLE_ID = "peekhole-latest-css";
